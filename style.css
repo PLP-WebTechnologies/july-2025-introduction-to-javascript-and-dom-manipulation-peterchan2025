@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #fafafa;
+}
+
+h1 {
+  color: darkgreen;
+}
+
+button {
+  margin: 6px;
+  padding: 6px 10px;
+}
